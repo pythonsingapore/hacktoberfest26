@@ -1,6 +1,6 @@
 # Hacktoberfest 2026 with Python User Group Singapore
 
-A working space for the PUGS LearnX preamble on Friday 25 September 2026 and the Hacktoberfest meetup on Friday 30 October 2026. We will learn how to propose small, useful open-source changes and create [Agent Skills](https://agentskills.io/specification). This repository is a workshop, not an official Hacktoberfest registration page or a guarantee that a practice PR counts toward a reward.
+A working space for the PUGS NLB LearnX preamble on Friday 25 September 2026 and the Hacktoberfest meetup on Friday 30 October 2026. We will learn how to propose small, useful open-source changes and create [Agent Skills](https://agentskills.io/specification). This repository is a workshop, not an official Hacktoberfest registration page or a guarantee that a practice PR counts toward a reward.
 
 ## Start here
 
